@@ -35,7 +35,16 @@ This step generally requires us to go through following steps-
   4. Determine the credibility of the data.
 
 ### Data Source
-- The data used is historical trip data of Cyclistic from Jan to Dec of 2022: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)https://divvy-tripdata.s3.amazonaws.com/index.html)
+- The data used is historical trip data of Cyclistic from: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
+- [Licensing Agrrement](https://ride.divvybikes.com/data-license-agreement) to use data
+- NOTE: Rider's personally identifiable info can't be used to prevent their privacy
+
+### Data description
+- Downloaded files in .zip fomrat was extracted to finally have 12 months of data in 12 .csv files each containing data of particu;ar month
+- Name of .csv files in format YYYYMM-divvy-tripdata
+- Downloaded data's timeframe: Dec 2022- Nov2023 (Past 1 year)
+- Each file have same column format with self explainable column names being ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng and member_casual.
+
 
 
 
