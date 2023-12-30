@@ -53,6 +53,19 @@ This step generally requires us to go through following steps-
 - S4: All the 12 tables are combined into one master table "year_table"
 
   [Detail SQL query and explanations for above steps](https://github.com/rk2303iitb/Capstone/blob/main/Database_creation.md#adding-the-tables)
+
+## Process
+This step requires 
+  1. Check the data for errors.
+  2. Choose your tools.
+  3. Transform the data so you can work with it effectively.
+  4. Document the cleaning process
+
+## Exploring the errors
+
+## Data cleaning
+
+## Analyse and Share
   
 
 
