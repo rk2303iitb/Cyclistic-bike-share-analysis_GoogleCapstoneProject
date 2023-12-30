@@ -45,6 +45,10 @@ This step generally requires us to go through following steps-
 - Downloaded data's timeframe: Dec 2022- Nov2023 (Past 1 year)
 - Each file have same column format with self explainable column names being ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng and member_casual.
 
+### Creating database
+- S1: Database file created manually in PostgreSQL as following
+  
+
 
 
 
