@@ -50,6 +50,8 @@ This step generally requires us to go through following steps-
   ![Screenshot 2023-12-30 150004](https://github.com/rk2303iitb/Capstone/assets/155146605/e870288d-b00f-4292-bed8-d29b5dd7d207)
 - S2: All the tables are added to database
 
+Tables created in the "divvy" database with column name same as that of .csv files and then import csv function is used. check the detailed explaination and queries from the link below
+
   SQL query: [Link](https://github.com/rk2303iitb/Capstone/blob/main/Database_creation.md#adding-the-tables)
   
 
