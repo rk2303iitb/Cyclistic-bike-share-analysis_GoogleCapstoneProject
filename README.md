@@ -61,9 +61,9 @@ This step requires
   3. Transform the data so you can work with it effectively.
   4. Document the cleaning process
 
-## Exploring the errors
+### Exploring the errors
 
-## Data cleaning
+### Data cleaning
 
 ## Analyse and Share
   
