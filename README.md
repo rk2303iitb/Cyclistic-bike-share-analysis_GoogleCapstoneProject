@@ -48,11 +48,11 @@ This step generally requires us to go through following steps-
 ### Creating database
 - S1: Database file created manually in PostgreSQL as following
   ![Screenshot 2023-12-30 150004](https://github.com/rk2303iitb/Capstone/assets/155146605/e870288d-b00f-4292-bed8-d29b5dd7d207)
-- S2: All the tables are added to database
+- S2: Tables are created in database with names in "YYYYMM-divvy" format 
+- S3: Data from downloaded .csv is imported to tables of database
+- S4: All the 12 tables are combined into one master table "year_table"
 
-Tables created in the "divvy" database with column name same as that of .csv files and then import csv function is used. check the detailed explaination and queries from the link below
-
-  SQL query: [Link](https://github.com/rk2303iitb/Capstone/blob/main/Database_creation.md#adding-the-tables)
+  [Detail SQL query and explanations for above steps](https://github.com/rk2303iitb/Capstone/blob/main/Database_creation.md#adding-the-tables)
   
 
 
