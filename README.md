@@ -61,8 +61,39 @@ This step requires
   3. Transform the data so you can work with it effectively.
   4. Document the cleaning process
 
-### Exploring the errors
+### Exploring the combined table
+- Data type
 
+    ![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/f9a01b56-641f-4d78-81c0-98b2db4726f9)
+
+- Total rows
+  
+    ![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/e31661eb-8d7a-4666-b113-0c23943cbe19)
+
+- Total null or blank values in each column
+
+    ![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/0c2a1f89-9b39-4bc7-b19e-6f7d2b525ab6)
+
+- Total duplicate rows in table(checked whether unique ride_id is repeated)
+
+    ![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/d4c324d7-1ee3-453f-be0a-fda64f9c99b4)
+
+- Rides longer than a day
+
+    ![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/73d2ae98-4bf1-4b3a-843d-f05d45ea884b)
+
+- Rides shorter than a minute
+
+    ![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/a6c27850-1a88-409b-b103-4752ecff5b0e)
+
+- Distinctinct rideable_type and number of rides on them
+
+    ![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/494cb29e-b39a-4550-9c6d-72167c4fd612)
+
+- Number of casual riders and member riders
+
+     ![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/acd548cd-4d4f-4dd7-8686-dd349f9fa02e)
+  
 ### Data cleaning
 
 ## Analyse and Share
