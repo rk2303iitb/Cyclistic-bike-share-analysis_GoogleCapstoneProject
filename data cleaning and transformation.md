@@ -31,3 +31,18 @@ ALTER TABLE year_table
 DROP COLUMN start_station_id, 
 DROP COLUMN end_station_id;
 ```
+```sql
+ALTER TABLE year_table
+ADD month_of_year VARCHAR,
+ADD day_of_week VARCHAR,
+ADD hour_of_day int,
+ADD ride_length TIME;
+```
+```sql
+UPDATE year_table
+SET 
+  ride_length = ended_at - started_at,
+  month_of_year = TO_CHAR(started_at, 'Month'),
+  day_of_week = TO_CHAR(started_at, 'Day'),
+  hour_of_day = EXTRACT(HOUR FROM started_at);
+```
