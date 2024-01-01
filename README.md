@@ -47,6 +47,7 @@ This step generally requires us to go through following steps-
 
 ### Creating database
 - S1: Database file created manually in PostgreSQL as following
+- 
   ![Screenshot 2023-12-30 150004](https://github.com/rk2303iitb/Capstone/assets/155146605/e870288d-b00f-4292-bed8-d29b5dd7d207)
 - S2: Tables are created in database with names in "YYYYMM-divvy" format 
 - S3: Data from downloaded .csv is imported to tables of database
@@ -111,6 +112,21 @@ This step requires
        - day_of_week
        - start_hour_of_day
        - ride_length
+    
+  #### Result of data cleaning and transformation
+  
+  - Final number of rows after cleaning
+    
+      ![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/fb938690-e487-4c4b-96a3-9c10658f8466)
+
+    So, total 1465681 rows removed in data cleaning process. 
+
+  - New columns added
+    
+      ![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/11b0491c-f3a7-4ca9-a369-282a892b6833)
+
+      
+    
 
 ## Analyse and Share
   
