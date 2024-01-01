@@ -98,7 +98,19 @@ This step requires
 
      ![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/acd548cd-4d4f-4dd7-8686-dd349f9fa02e)
   
-### Data cleaning
+### Data cleaning and transformation
+
+#### [SQL queries for cleaning and transformation](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/edit/main/data%20cleaning%20and%20transformation.md#queries-for-data-cleaning-and-transformation)
+
+#### Steps taken:-
+  1. Removing rows with null or blank values
+  2. Removing outliers to avoid any bias (>24 hours ride and <1 mins ride)
+  3. Removing columns of station_id as they are not useful in analysis
+  4. Adding new columns-
+       - month
+       - day_of_week
+       - start_hour_of_day
+       - ride_length
 
 ## Analyse and Share
   
