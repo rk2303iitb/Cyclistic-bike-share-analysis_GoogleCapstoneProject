@@ -62,6 +62,10 @@ This step requires
   4. Document the cleaning process
 
 ### Exploring the combined table
+
+#### [SQL queries for data exploration](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/blob/main/Data%20exploration.md#queries-for-data-exploration)
+#### Results:-
+
 - Data type
 
     ![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/f9a01b56-641f-4d78-81c0-98b2db4726f9)
