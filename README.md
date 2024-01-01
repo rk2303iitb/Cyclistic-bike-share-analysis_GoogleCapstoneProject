@@ -126,12 +126,10 @@ This step requires
     
       ![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/11b0491c-f3a7-4ca9-a369-282a892b6833)
 
-      
-    
-
 ## Analyse and Share
   
-
+- Data has been cleaned and transformed into a table which can be analysed comfortably
+- The 'year_table' after all the updates is downloaded in .csv format and uploaded to Tableau for further analysis
 
 
 
