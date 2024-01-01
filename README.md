@@ -64,7 +64,8 @@ This step requires
 
 ### Exploring the combined table
 
-#### [SQL queries for data exploration](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/blob/main/Data%20exploration.md#queries-for-data-exploration)
+[SQL queries for data exploration](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/blob/main/Data%20exploration.md#queries-for-data-exploration)
+
 #### Results:-
 
 - Data type
