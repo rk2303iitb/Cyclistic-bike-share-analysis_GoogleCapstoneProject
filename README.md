@@ -130,6 +130,7 @@ This step requires
   
 - Data has been cleaned and transformed into a table which can be analysed comfortably
 - The 'year_table' after all the updates is downloaded in .csv format and uploaded to Tableau for further analysis
+- [Link to Tableau Analysis](https://public.tableau.com/views/cyclistic_17042930091250/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 
