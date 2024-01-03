@@ -132,5 +132,18 @@ This step requires
 - The 'year_table' after all the updates is downloaded in .csv format and uploaded to Tableau for further analysis
 - [Link to Tableau Analysis](https://public.tableau.com/views/cyclistic_17042930091250/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/c2933db2-a846-4208-97f6-a972af90b67d)
+![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/a4096fca-fda1-4fd1-8094-0752f08013ff)
+![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/578f193a-c7cf-4f16-97af-8bc9cfbcf3ea)
+![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/63939c96-53ee-48f1-89c1-329d557c11d7)
+![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/a5faecd1-5e24-4c67-bce1-5bc8a37d9a84)
+![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/f5dd5fc4-392b-4480-a4dd-40930ae70ab1)
+![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/afc53996-beb3-4541-95ec-a90c083873f4)
+![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/9a900203-a5e1-4c4c-b1ad-47a3c05cf2c4)
 
-
+### Insights
+  1. Most used bike is classic bike followed by the electric bike, docked bikes are used the least and by only casual riders.
+  2. Both casual and members have similar behavior, with more trips in the spring and summer and fewer in the winter(Nov-Feb).
+  3. Casual riders make more journeys on the weekends while members show a decline over the weekend in contrast to the other days of the week. It can be assumed that members are using bike for work commutation while casual riders for recreational or other purposes.
+  4. Members are more frequently using bikes around 8AM and 6PM which are office hours further confirming our assunption in point 3 that members are mostly using bike for work/office related commutation, For casual riders no such specific peak, frequency consistently increases from morning to evening.
+  5. 
