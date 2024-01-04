@@ -1,4 +1,4 @@
-# Cyclist Bike Share Analysis
+# Cyclistic Bike Share Analysis
 - Project Referece: [Google Data Analytics Capstone](https://www.coursera.org/learn/google-data-analytics-capstone)
 
 ## Introduction
