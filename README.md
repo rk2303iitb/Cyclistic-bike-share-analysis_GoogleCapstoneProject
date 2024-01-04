@@ -130,7 +130,7 @@ This step requires
   
 - Data has been cleaned and transformed into a table which can be analysed comfortably
 - The 'year_table' after all the updates is downloaded in .csv format and uploaded to Tableau for further analysis
-- [Link to Tableau Analysis](https://public.tableau.com/views/cyclistic_17042930091250/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [Link to Tableau Analysis](https://public.tableau.com/views/cyclisticproject_17043569396860/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/c2933db2-a846-4208-97f6-a972af90b67d)
 ![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/a4096fca-fda1-4fd1-8094-0752f08013ff)
