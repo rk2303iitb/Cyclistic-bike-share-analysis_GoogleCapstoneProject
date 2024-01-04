@@ -142,8 +142,23 @@ This step requires
 ![image](https://github.com/rk2303iitb/Cyclist-bike-share-analysis/assets/155146605/9a900203-a5e1-4c4c-b1ad-47a3c05cf2c4)
 
 ### Insights
-  1. Most used bike is classic bike followed by the electric bike, docked bikes are used the least and by only casual riders.
-  2. Both casual and members have similar behavior, with more trips in the spring and summer and fewer in the winter(Nov-Feb).
-  3. Casual riders make more journeys on the weekends while members show a decline over the weekend in contrast to the other days of the week. It can be assumed that members are using bike for work commutation while casual riders for recreational or other purposes.
-  4. Members are more frequently using bikes around 8AM and 6PM which are office hours further confirming our assunption in point 3 that members are mostly using bike for work/office related commutation, For casual riders no such specific peak, frequency consistently increases from morning to evening.
-  5. 
+  1. **Rideable type**: Most used bike is classic bike followed by the electric bike, docked bikes are used the least and by only casual riders.
+  2. **Week days vs weekends behaviour**: Casual riders make more journeys on the weekends while members show a decline over the weekend in contrast to the other days of the week. It can be assumed that members are using bike for work commutation while casual riders for recreational or other purposes.
+  3. **Month/Season based behaviour**: Both casual and members have similar behavior, with more trips in the spring and summer and fewer in the winter(Nov-Feb).
+  4. **Peak hours of the day**: Members are more frequently using bikes around 8AM and 6PM which are office hours further confirming our assunption in point 3 that members are mostly using bike for work/office related commutation, For casual riders no such specific peak, frequency consistently increases from morning to evening.
+  5. **Stations used**: Most frequent staions for member riders are near universities, commercial/office places, residential areas while for casual riders are near parks, museum, beaches and other leisure areas.
+  6. **Ride duration**: Average ride duration for casual rider is nearly double compared to member riders. However, average ride duraion for members remains more or less same throughout the year while casual rider's ride duration peaks during sprin and ummer on weekends.
+
+## Recommendations to convert casual riders into members
+
+- Make regular membership discount to casual riders, especially from June to August. Start campaigns from early spring.
+
+- Promotions during weekends to reach out casual riders.
+
+- Provide and promote additional perks for having a Cyclistic membership account, such as holding a membership only events and prizes.
+
+- Collaborate with leisure activity based businesses providing museum passes, movie ticket discounts etc. with annual membership to attract casual riders
+
+- Run promotions at the top 5 stations that casual riders often use.
+
+- Increase the bikes’ renting price for casual riders during the weekends, especially electic bikes to push them to chose membership.
