@@ -1,5 +1,5 @@
 # Cyclistic Bike Share Analysis
-- Project Referece: [Google Data Analytics Capstone](https://www.coursera.org/learn/google-data-analytics-capstone)
+- Project Referece: [Google Data Analytics Capstone Project](https://www.coursera.org/learn/google-data-analytics-capstone)
 
 ## Introduction
 - As a junior data analyst at a fictional bike share company, Cyclistic, I have to utilise data analysis to to help management to convert casual riders into annual subscription based members
